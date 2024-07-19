@@ -1,5 +1,5 @@
 ## Hi, I am Bradley Stoller!
-I am a passionate data scientist and aspiring consultant with a strong background in data analysis, machine learning, and AI-driven solutions. I recently graduated from Cornell and am currently pursuing a Master of Science in Applied Data Science at the University of Chicago.
+I am a passionate data scientist and aspiring consultant with a strong background in data analysis, busines strategy, and AI-driven solutions. I recently graduated from Cornell and am currently pursuing a Master of Science in Applied Data Science at the University of Chicago.
 
 - Aspiring Data Scientist and Consultant
 - MS in Applied Data Science at the University of UChicago
