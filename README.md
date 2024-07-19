@@ -3,7 +3,7 @@ I am a passionate data scientist and aspiring consultant with a strong backgroun
 
 - Aspiring Data Scientist and Consultant
 - MS in Applied Data Science at the University of UChicago
-- Cornell University (SC Johnson College of Business) Class of 23
+- Cornell University '23
 - Seeking opportunities in data science and consulting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
