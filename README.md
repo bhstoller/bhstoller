@@ -2,8 +2,8 @@
 I am a passionate data scientist and aspiring consultant with a strong background in data analysis, busines strategy, and AI-driven solutions. I recently graduated from Cornell and am currently pursuing a Master of Science in Applied Data Science at the University of Chicago.
 
 - Aspiring Data Scientist and Consultant
-- Master of Science, University of UChicago '25
-- Bachelor of Science, Cornell University '23
+- M.S. Candidate, University of UChicago '25
+- B.S., Cornell University '23
 - Seeking opportunities in data science and consulting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
