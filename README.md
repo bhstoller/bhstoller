@@ -1,4 +1,4 @@
-# Hello, I'm Bradley
+# Hi, I'm Bradley Stoller
 
 ## About Me
 
