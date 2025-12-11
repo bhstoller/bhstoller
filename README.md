@@ -8,5 +8,3 @@ I am an aspiring data scientist and consultant with a strong background in data 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradleystoller/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhs.stoller@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhstoller&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
